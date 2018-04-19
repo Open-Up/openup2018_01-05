@@ -1,3 +1,5 @@
 # Presentation of OpenUp!
 
-## A BRIEF HISTORY OF INTERNET AND WEB
+## Web fundamentals
+
+Retrieve this presentation [online](https://rawgit.com/Open-Up/openup2018_01-05/master/index.html)
